@@ -12,7 +12,7 @@ API, que significa Interface de Programação de Aplicações, é a interface de
 
 A arquitetura REST (Representational State Transfer) é um estilo de arquitetura de software focada em serviços web, que define um conjunto de padrões e restrições a serem usados em seu desenvolvimento.
 
-A API REST é uma API feita conforme os padrões ditados pelo estilo de arquitetura rest e suas restrições, tornando possível a interação com serviços web RESTful. Quando é feita uma solicitação usando uma REST API, é transferida uma representação do estado do recurso ao solicitante, sendo entregue utilizando um dos os vários formatos do HTTP.
+A API REST é uma API feita conforme os padrões ditados pelo estilo de arquitetura REST e suas restrições, tornando possível a interação com serviços web RESTful. Quando é feita uma solicitação usando uma REST API, é transferida uma representação do estado do recurso ao solicitante, sendo entregue utilizando um dos os vários formatos do HTTP.
 
 APIs do tipo REST precisam estar em conforme algumas das seguintes características:
 * Ter uma interface uniforme entre os componentes para transferência de informações padronizadas;
