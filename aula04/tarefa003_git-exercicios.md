@@ -9,33 +9,43 @@ git --version
 
 2. Qual o efeito da execução de cada um dos comandos abaixo?
   a. git help
+  
   Mostra diversos comandos do git para auxiliar o usuário.
   
   b. git help checkout
+  
   Abre a página do manual sobre checkout.
   
   c. git help merge
+  
   Abre a página do manual sobre merge.
   
   d. git init
+  
   Cria um novo repositório.
   
   e. git add --all
+  
   Adiciona todos os arquivos no stage.
   
   f. git add -u
+  
   Adiciona todos os arquivos modificados ou removidos no stage.
   
   g. git config -l
+  
   Lista todas as variáveis do arquivo config e seus valores.
   
   h. git mv a.txt b.txt
+  
   Muda o nome do arquivo a.txt para b.txt.
   
   i. git reset --hard
+  
   Desfaz todas as alterações locais nos arquivos.
   
   j. git log -27
+  
   Ver últimas 27 entradas no log.
 
 3. O fluxo “clássico” de interação com o Git é algo como “alterar um ou mais arquivos”, “acrescentar essas mudanças para serem contemplados no próximo commit” e, finalmente, executar um “commit”. Quais os comandos necessários para realizar os dois últimos “passos” desse fluxo?
